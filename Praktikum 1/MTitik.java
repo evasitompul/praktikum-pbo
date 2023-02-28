@@ -1,10 +1,10 @@
 /**
-* Nama				: Eva Sitompul
-* NIM				: 24060119120035
-* Lab				: B2
-* Nama File			: MTitik.java
-* Tanggal Pembuatan		: 22/02/2023
-* Deskripsi			: Kelas yang berisi program utama yang memanfaatkan kelas Titik 
+* Nama			: Eva Sitompul
+* NIM			: 24060119120035
+* Lab			: B2
+* Nama File		: MTitik.java
+* Tanggal Pembuatan	: 22/02/2023
+* Deskripsi		: Kelas yang berisi program utama yang memanfaatkan kelas Titik 
 */
 
 class MTitik{
