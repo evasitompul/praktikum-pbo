@@ -1,9 +1,12 @@
 /**
-* File		:Titik.java 22/02/2023
-* Nama		:Eva Sitompul
-* NIM		:24060119120035
-* Deskripsi	:Kelas Titik 
+* Nama				: Eva Sitompul
+* NIM				: 24060119120035
+* Lab				: B2
+* Nama File			: Titik.java
+* Tanggal Pembuatan		: 22/02/2023
+* Deskripsi			: Kelas Titik 
 */
+
 
 class Titik{
 	// atribut
