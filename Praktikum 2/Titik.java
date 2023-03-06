@@ -3,7 +3,7 @@
 * NIM				: 24060119120035
 * Lab				: B2
 * Nama File			: Titik.java
-* Tanggal Pembuatan	: 22/02/2023
+* Tanggal Pembuatan		: 22/02/2023
 * Deskripsi			: Kelas Titik 
 */
 
