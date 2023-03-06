@@ -3,7 +3,7 @@
 * NIM				: 24060119120035
 * Lab				: B2
 * Nama File			: OperasiTitik.java
-* Tanggal Pembuatan	: 01/03/2023
+* Tanggal Pembuatan		: 01/03/2023
 * Deskripsi			: Kelas yang berisi program OperasiTitik 
 */
 
