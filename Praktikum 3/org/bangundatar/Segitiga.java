@@ -2,8 +2,8 @@
 * Nama				: Eva Sitompul
 * NIM				: 24060119120035
 * Lab				: B2
-* Nama File			: SegitigaSikusiku.java
-* Tanggal Pembuatan	: 08/03/2023
+* Nama File			: Segitiga.java
+* Tanggal Pembuatan		: 08/03/2023
 * Deskripsi			: Representasi dari objek persegi panjang, turunan kelas poligon 
 */
 
