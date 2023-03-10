@@ -1,15 +1,15 @@
 /**
-* Nama				: Eva Sitompul
-* NIM				: 24060119120035
-* Lab				: B2
-* Nama File			: PersegiPanjang.java
-* Tanggal Pembuatan		: 08/03/2023
-* Deskripsi			: Representasi dari objek persegi panjang, turunan kelas poligon 
+* Nama			: Eva Sitompul
+* NIM			: 24060119120035
+* Lab			: B2
+* Nama File		: PersegiPanjang.java
+* Tanggal Pembuatan	: 08/03/2023
+* Deskripsi		: Representasi dari objek persegi panjang, turunan kelas poligon 
 */
 
 package org.bangundatar;
 
-import org.poligon.Poligon; //mengimport file sesuai dengan urutan direktori
+import org.poligon.Poligon;
 
 public class PersegiPanjang extends Poligon{
 	private double panjang,lebar;
