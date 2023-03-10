@@ -3,13 +3,13 @@
 * NIM				: 24060119120035
 * Lab				: B2
 * Nama File			: PersegiPanjang.java
-* Tanggal Pembuatan	: 08/03/2023
+* Tanggal Pembuatan		: 08/03/2023
 * Deskripsi			: Representasi dari objek persegi panjang, turunan kelas poligon 
 */
 
 package org.bangundatar;
 
-import org.poligon.Poligon; //mengimport file sesuai dengan urutan direktori dari paling luar ke dalam
+import org.poligon.Poligon; //mengimport file sesuai dengan urutan direktori
 
 public class PersegiPanjang extends Poligon{
 	private double panjang,lebar;
