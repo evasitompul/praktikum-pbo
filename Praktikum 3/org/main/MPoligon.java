@@ -1,10 +1,10 @@
 /**
-* Nama				: Eva Sitompul
-* NIM				: 24060119120035
-* Lab				: B2
-* Nama File			: MPoligon.java
+* Nama			: Eva Sitompul
+* NIM			: 24060119120035
+* Lab			: B2
+* Nama File		: MPoligon.java
 * Tanggal Pembuatan	: 08/03/2023
-* Deskripsi			: driver class untuk poligon dan persegi panjang
+* Deskripsi		: driver class untuk poligon, persegi panjang, dan segitiga
 */
 
 package org.main;
@@ -17,9 +17,9 @@ public class MPoligon{
 		persegi.printInfo();
 		System.out.println("Luas Persegi Panjang : "+persegi.hitungLuas());
 	
-		SegitigaSikusiku segitiga = new SegitigaSikusiku(15,8,3);
+		Segitiga segitiga = new Segitiga(15,8,3);
 		segitiga.printInfo();
-		System.out.println("Luas Segitiga Siku-siku : "+segitiga.hitungLuas());
+		System.out.println("Luas Segitiga : "+segitiga.hitungLuas());
 	
 	}
 }
