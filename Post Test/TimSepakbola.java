@@ -1,8 +1,10 @@
-/** Nama Praktikan     : Eva Sitompul
-*NIM Praktikan	  : 24060119120035
-*Nama File		  : TimSepakbola.java
+/** 
+*Nama	              : Eva Sitompul
+*NIM		            : 24060119120035
+*Lab			          : B2
+*Nama File	        : TimSepakbola.java
 *Tanggal Pembuatan  : 15 Maret 2023
-*Deskripsi		  : modul kelas program Tim Sepakbola 
+*Deskripsi	        : class program Tim Sepakbola 
 */
 
 class TimSepakbola {
