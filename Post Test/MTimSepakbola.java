@@ -2,7 +2,7 @@
 *Nama			: Eva Sitompul
 *NIM			: 24060119120035
 *Lab			: B2
-*Nama File		: TimSepakbola.java
+*Nama File		: MTimSepakbola.java
 *Tanggal Pembuatan 	: 15 Maret 2023
 *Deskripsi		: main dari program TimSepakbola
 */
