@@ -1,10 +1,10 @@
 /** 
-*Nama	: Eva Sitompul
-*NIM		: 24060119120035
+*Nama			: Eva Sitompul
+*NIM			: 24060119120035
 *Lab			: B2
-*Nama File	: TimSepakbola.java
-*Tanggal Pembuatan : 15 Maret 2023
-*Deskripsi	: main dari program TimSepakbola
+*Nama File		: TimSepakbola.java
+*Tanggal Pembuatan 	: 15 Maret 2023
+*Deskripsi		: main dari program TimSepakbola
 */
 
 class MTimSepakbola {
