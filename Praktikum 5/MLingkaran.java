@@ -1,10 +1,10 @@
 /**
-* Nama				: Eva Sitompul
-* NIM				: 24060119120035
-* Lab				: B2
-* Nama File			: MLingkaran.java
-* Tanggal Pembuatan	: 27/02/2023
-* Deskripsi			: Implementasi cara menghitung luas lingkaran
+* Nama			: Eva Sitompul
+* NIM			: 24060119120035
+* Lab			: B2
+* Nama File		: MLingkaran.java
+* Tanggal Pembuatan	: 27/03/2023
+* Deskripsi		: Implementasi cara menghitung luas lingkaran
 */
 
 import java.util.Scanner;
