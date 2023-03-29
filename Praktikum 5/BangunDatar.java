@@ -1,10 +1,10 @@
 /**
-* Nama				: Eva Sitompul
-* NIM				: 24060119120035
-* Lab				: B2
-* Nama File			: BangunDatar.java
-* Tanggal Pembuatan		: 27/03/2023
-* Deskripsi			: Kelas abstak, berisi abstraksi bangun datar
+* Nama			: Eva Sitompul
+* NIM			: 24060119120035
+* Lab			: B2
+* Nama File		: BangunDatar.java
+* Tanggal Pembuatan	: 27/03/2023
+* Deskripsi		: Kelas abstak, berisi abstraksi bangun datar
 */
 
 public abstract class BangunDatar{
