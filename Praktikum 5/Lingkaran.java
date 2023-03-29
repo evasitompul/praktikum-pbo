@@ -1,10 +1,10 @@
 /**
-* Nama				: Eva Sitompul
-* NIM				: 24060119120035
-* Lab				: B2
-* Nama File			: Lingkaran.java
+* Nama			: Eva Sitompul
+* NIM			: 24060119120035
+* Lab			: B2
+* Nama File		: Lingkaran.java
 * Tanggal Pembuatan	: 27/02/2023
-* Deskripsi			: Kelas implementasi IArea berupa cara menghitung luas lingkaran
+* Deskripsi		: Kelas implementasi IArea berupa cara menghitung luas lingkaran
 */
 
 //mengambil konstanta yang ada di kelas java.lang.Match
