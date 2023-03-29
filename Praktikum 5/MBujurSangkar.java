@@ -1,10 +1,10 @@
 /**
-* Nama				: Eva Sitompul
-* NIM				: 24060119120035
-* Lab				: B2
-* Nama File			: MBujurSangkar.java
-* Tanggal Pembuatan	: 27/02/2023
-* Deskripsi			: Kelas yang mengimplementasikan cara menghitung luas bujur sangkar
+* Nama			: Eva Sitompul
+* NIM			: 24060119120035
+* Lab			: B2
+* Nama File		: MBujurSangkar.java
+* Tanggal Pembuatan	: 27/03/2023
+* Deskripsi		: Kelas yang mengimplementasikan cara menghitung luas bujur sangkar
 */
 
 import java.util.Scanner;
