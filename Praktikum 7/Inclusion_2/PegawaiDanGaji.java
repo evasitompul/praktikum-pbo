@@ -1,10 +1,10 @@
 /**
-* Nama				: Eva Sitompul
-* NIM				: 24060119120035
-* Lab				: B2
-* Nama File			: PegawaiDanGaji.java
+* Nama			: Eva Sitompul
+* NIM			: 24060119120035
+* Lab			: B2
+* Nama File		: PegawaiDanGaji.java
 * Tanggal Pembuatan	: 03/05/2023
-* Deskripsi			: Kelas yang berisi program untuk kelas PegawaiDanGaji.
+* Deskripsi		: Kelas yang berisi program untuk kelas PegawaiDanGaji.
 */
 
 class Pegawai {
